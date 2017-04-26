@@ -1,0 +1,9 @@
+﻿{
+  "name": "lec5",
+  "version": "0.0.0",
+  "description": "lec5",
+  "main": "app.js",
+  "author": {
+    "name": "Евгений"
+  }
+}
