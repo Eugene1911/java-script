@@ -1,0 +1,9 @@
+﻿{
+  "name": "lec4_dijkstra",
+  "version": "0.0.0",
+  "description": "lec4_dijkstra",
+  "main": "app.js",
+  "author": {
+    "name": "Евгений"
+  }
+}
